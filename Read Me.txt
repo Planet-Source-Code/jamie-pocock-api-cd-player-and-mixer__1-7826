@@ -1,0 +1,36 @@
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+If you have any comments please email me Jamie at ::::: micracom2@hotmail.com :::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::If you can make the balance work please email me. Happy computing::::::::::::::
+
+The CD player window is a simple but effective tool for playing CDs and with the
+added benefit of a mixer. The mixer enables the user to control the output of up to ten
+audio devices on there computer and allowing mute, bass and treble control as well.
+Also included is a SBM control for linking the selected faders together. The Cd draw is 
+also controlled  
+	This window is self explanatory so I shall not go into detail about how 
+each control works as most people could work it out. No offence intended if you can’t. 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+	The CD player is fairly standard as it was very difficult to program taking over
+two months to complete containing 874 lines of code and the average line containing 8
+words.. Another feature of this window I found extremely hard to make work was the mute 
+control it sounds very simple but the feature was one of the last things to be added as
+ I could not work the code out to operate the mute.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+	I have spent many hours trying to add a VU meter to the CD player but have
+not managed to succeed. The same for the balance control I have been unsuccessful in
+getting that to work correctly as well. There are ways I know of but they are of
+different coding styles to the main code of this window and would increase the
+size of the code a great deal.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+	This mixer has been tested on a Creative Labs SoundBlaster Live  a
+SoundBlaster 16 and a SoundBlaster 64 each worked fine. The mixer has not been
+tested on any other makes of soundcard as yet. But Creative Labs is the standard for
+PC based sound cards and I feel confident that the mixer will work on other makes of
+sound card.
